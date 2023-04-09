@@ -1,0 +1,15 @@
+/home/josehower/csharp-projects/hello-world/bin/Debug/net6.0/hello-world
+/home/josehower/csharp-projects/hello-world/bin/Debug/net6.0/hello-world.deps.json
+/home/josehower/csharp-projects/hello-world/bin/Debug/net6.0/hello-world.runtimeconfig.json
+/home/josehower/csharp-projects/hello-world/bin/Debug/net6.0/hello-world.dll
+/home/josehower/csharp-projects/hello-world/bin/Debug/net6.0/ref/hello-world.dll
+/home/josehower/csharp-projects/hello-world/bin/Debug/net6.0/hello-world.pdb
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.csproj.AssemblyReference.cache
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfoInputs.cache
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.AssemblyInfo.cs
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.csproj.CoreCompileInputs.cache
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.dll
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/ref/hello-world.dll
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.pdb
+/home/josehower/csharp-projects/hello-world/obj/Debug/net6.0/hello-world.genruntimeconfig.cache
