@@ -7,7 +7,6 @@
         Console.WriteLine(randomBar);
         Console.ForegroundColor = randomBar;
 
-
         Console.WriteLine("####################################");
         Console.WriteLine("####################################");
         Console.WriteLine("####################################");
@@ -16,6 +15,5 @@
         Console.WriteLine("####################################");
         Console.WriteLine("####################################");
         Console.WriteLine("####################################");
-
     }
 }
