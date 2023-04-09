@@ -4,7 +4,7 @@
     {
         Array values = Enum.GetValues(typeof(ConsoleColor));
         ConsoleColor randomBar = (ConsoleColor)values.GetValue(new Random().Next(values.Length));
-        Console.WriteLine(randomBar);
+        Console.WriteLine("Random Color");
         Console.ForegroundColor = randomBar;
 
         Console.WriteLine("####################################");
